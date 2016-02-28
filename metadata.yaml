@@ -1,0 +1,23 @@
+_repo: Mary-Slessor-of-Calabar-Pioneer-Missionary_8906
+creator:
+  author:
+    agent_name: Livingstone, W. P. (William Pringle)
+    alias: Livingstone, William Pringle
+    gutenberg_agent_id: '2924'
+    url: http://www.gutenberg.org/2009/agents/2924
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries -- Scotland -- Biography'
+- !lcsh 'Slessor, Mary Mitchell, 1848-1915'
+- !lcsh 'Missionaries -- Nigeria -- Biography'
+- !lcc 'BV'
+title: 'Mary Slessor of Calabar: Pioneer Missionary'
+url: http://www.gutenberg.org/ebooks/8906
